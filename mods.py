@@ -115,4 +115,4 @@ else:
         
 
 
-st.text("© 2023 Jayashree Rao, Someshvar, Vignesh, Lokesh,Raghav and Sherwin Roger(Prompt ur Way Thru). All rights reserved.")
+st.text("© 2023 Jayashree Rao, Someasvar, Vignesh, Lokesh,Raghav,Sherwin Roger,Mr. Dhinesh Kumar and Mr. Ramachandra (Prompt ur Way Thru). All rights reserved.")
