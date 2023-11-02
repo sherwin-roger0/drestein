@@ -115,4 +115,4 @@ else:
         
 
 
-st.text("© 2023 Vikki Pakki. All rights reserved.")
+st.text("© 2023 Jayashree Rao,Vignesh,Lokesh,Raghav and Sherwin Roger(Prompt ur Way Thru). All rights reserved.")
