@@ -1,0 +1,6 @@
+streamlit
+pymongo
+streamlit_local_storage
+tensorflow
+tensorflow_hub
+numpy
